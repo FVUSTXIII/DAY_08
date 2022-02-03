@@ -1,0 +1,13 @@
+<%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ page session="false"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Booked Rides</title>
+</head>
+<body>
+		<h1>UNDER CONSTRUCTION</h1>
+	
+</body>
+</html>
